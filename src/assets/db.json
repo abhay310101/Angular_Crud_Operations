@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "firstName": "Akshay",
+      "lastName": "solanke",
+      "email": "akshaysolan80444@gmail.com",
+      "dob": "2000-01-02T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Gradute",
+      "company": "HP",
+      "experience": 2,
+      "package": 11,
+      "id": "2"
+    },
+    {
+      "id": "1",
+      "firstName": "Jayesh",
+      "lastName": "kale",
+      "email": "jayeshkale20@gmail.com",
+      "dob": "2001-01-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "HP",
+      "experience": 1,
+      "package": 6
+    }
+  ]
+}
